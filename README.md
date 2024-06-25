@@ -1,4 +1,13 @@
-# Dark Souls 3 Cheat Sheet
+# Cheat Sheet Generator
+
+Based heavily on the [Dark Souls 3 Cheat Sheet](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) by [Zachary Kjellberg](https://github.com/ZKjellberg).
+
+This project uses a Powershell script and JSON data file to generate a checklist in the same style as the Dark Souls 3 checklist.
+
+
+
+
+<!-- 
 
 To view the cheat sheet [click here](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/).
 
@@ -51,3 +60,4 @@ In addition to the filter classes, there is a second type of classes used to con
 | h_ng+  | items hidden on NG+ and beyond, e.g., Ashen Estus Flask |
 | s_ng+  | items shown on NG+ and beyond, e.g., +1 rings |
 | s_ng++ | items shown on NG++ and beyond, e.g., +2 rings |
+ -->
