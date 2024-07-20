@@ -1,33 +1,44 @@
-Equip Zidane with the Mythril Dagger, then remove Garnet's Silk Robe and Gold Choker; give the robe to Vivi and also equip him with the Ice Staff and Magus Hat; activate his Ability Up ability and Zidane's Bandit.
-Head for the Gargant platform. 
- BATTLE: RALVUIMAGO 
- • Have Vivi cast Blizzara, Zidane Steal and Garnet attack physically, 
- in that order. 
- • The boss will coil up, but will not attack while in this state. 
- • While he is coiled up, have Zidane Steal. Wait for the boss to 
- uncoil then rinse and repeat the attack pattern. 
- • It takes 3 Blizzara spells to win. 
- • You can also skip Garnet's attack during the first round and hope the 
- boss doesn't use Thundara - this saves a round of coiling. 
- • Make sure you Steal the Adaman Vest (64/256) - you will soon need it 
- for fighting Lani.
- Z Auto-Reflect 13/95 Distract 13/30 Man Eater 22/25 Insomniac 22/30 Auto-Potion 22/30 
- V Insomniac 18/25 
-Once you gain control of Garnet, head straight back to the crash site to find the ending of the Hero's Tale.
-Return and run leftwards on the top path to find another piece of the story.
-Deliver Mosh's letter to Monty and save your game.
- [TARGET TIME: 04:32:54]
-Pinnacle Rocks is theoretically skippable, but since you're collecting all the treasure, you may as well get the story pieces; they're right next to the chests, after all.
-Open the chest at the bottom of the slope, then find another segment of the story below the top path in a little cove.
-Go left and approach the chest to find yet another part, and open the chest afterwards.
-Go up the branch and around to jump down to the chest below; find the fifth piece of the story near this chest.
-Return and go past the point where you jumped to meet Ramuh. Recite the story with the ending you wish and attempt to leave Pinnacle Rocks.
-When given the choice to jump off from the ledge, choose NOT to and return to Monty to read the letter he received from Stiltzkin, save, and then leave Pinnacle Rocks. Monty is unreachable on Disc 4, meaning it won't be visible whether you read this letter or not, so if you don't care about it then you can jump off and save about a minute.
-In Lindblum, enter the inn, deliver Serino's letter, accept Moodon's letter and read the letter from Ruby; save if you wish.
-Exit the inn and head to the market square, taking care not to trigger the scene with the crowd around the black mage. Do this by walking as close as possible to the left side of the screen.
-At the square, search Card Freak Gon's house and the rubble to the left of it, then head to the shopping area to initiate some scenes.
-You'll find yourself in the shopping area afterwards, so drop by the synthesis shop and buy an Exploda.
-Take an aircab to the Theater District, and loot Artist Michael's studio and the Tantalus hideout. Then, speak to Lowell outside the hideout to recruit him into Ruby's theater in Alexandria.
-Return to the Business District and tell the man that you're ready to leave.
-Deliver Moodon's letter to Moonte at the Dragon's Gate, then save.
- TARGET TIME : 04:43:21 (+18:47) TARGET GIL : 46,587 ENCOUNTERS : 0 
+ o Attempt to leave the room and choose "Where's Garnet?" when prompted.
+ o Leave the room, run down the stairs, and talk to the guard on the right.
+ o Go to the royal chamber (you have to talk to either of the 2 guards every time you want to enter the royal chamber, even if you are invited).
+ o There will be a lot of dialogue once you enter; return to the guest room once it's over.
+ o Head to the aircab dock after the meeting with Doctor Tot and fly to the Theater District.
+ o Go the Tantalus hideout and get the Unusual Potion from Cinna; return to open the chests inside for some Gil.
+ o Next visit Artist Michael's studio, ask about the potions, then search the studio for the Strange Potion and open the chest for a Lapis Lazuli.
+ o Return to the aircab terminal and board an aircab for the Business District.
+ o You can skip delivering Mogki's letter to Moodon at the inn, and do it after the challenge is over. So head straight to the market square.
+ o Proceed down the alley and ask Alice about the potions to receive her Beautiful Potion.
+ o Enter the synthesis shop to prepare not only another Cotton Robe trick, but also the less-known 'Desert Boots trick' :)
+     BUY : 99 Cotton Robe      99,000
+         : 99 Desert Boots     29,700
+ o Ride back to Lindblum Castle and return to the royal chamber.
+ o Following the upcoming meeting, take the lift to the base level and ride to the Serpent's Gate; open the chest and board the Blue Narciss.
+ o Form a party with Vivi, Garnet and Quina, then sail west to the island with Chocobo tracks, west of the island with Chocobo's Lagoon.
+ o Disembark, use Gysahl Greens to call Choco, and save your game.
+  [TARGET TIME: 07:40:46]
+ o Reset, enter Chocobo's Lagoon, dig up a Chocograph, and save on the beach outside. Be sure to save over a different file and check which Chocograph you received after you've already saved; you need either "Dawn Lagoon" or "Dusk Plains".
+ o Play another game of Hot&Cold for the other Chocograph. Back outside, open the Chocograph menu to check whether you got the right one, and take the opportunity to equip "Dawn Lagoon".
+ PATH C & COMBINED
+  | * If you didn't get the second Chocograph Piece on Disc 1, then you'll  |
+  |   need to dig it up now with one of the Chocographs!                    |
+  | * The chances of digging up a Chocograph Piece AND the right Chocograph |
+  |   in a single 30-second game are quite low, but they are highest in the |
+  |   first game since you have two Chocographs which fit the requirements. |
+  | * If you can't get a good Chocograph and the Chocograph Piece during    |
+  |   the first game, then you can try to play 2 consecutive games instead. |
+  | * Playing a second game immediately after another one adds about 0:30.  |
+  |                                                         _________       |
+  '--------------------------------------------------------/ + 0:30 /-------'
+                                                           ¯¯¯¯¯¯¯¯¯
+ o Don't bother saving after your last game; instead, head straight back to the
+   Blue Narciss and sail to Chocobo's Forest. Use the tracks there to call
+   Choco, then head east and into the water from the last beach - the "Dawn
+   Lagoon" treasure is to the right of the island nearby.
+ o Having gotten the Mountain Transformation, return to the beach and climb up
+   the mountain to end up right next to Treno; enter the city.
+ o Equip Quina with the Needle Fork, Bone Wrist, and Running Shoes; activate
+   his/her Auto-Haste and Add Status abilities.
+ o Save with Mogrich.
+
+   _________________________________________________________________________
+  | TARGET TIME : 07:47:47 (+25:15) | TARGET GIL :  63,640 | ENCOUNTERS : 0 |

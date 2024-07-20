@@ -173,9 +173,9 @@ $jsHiddenCats = ''
             $listdata +=$taglist
             #rest
             $steptext = $step.text
-            $steptext.Replace("•","&#8226")
+            $steptext = $steptext.Replace("•","&#8226")
 
-            $listdata += '">' + $step.text + '</li>
+            $listdata += '">' + $steptext + '</li>
             '
         }
         $listdata += '</ul>
