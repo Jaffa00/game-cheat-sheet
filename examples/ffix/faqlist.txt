@@ -1,52 +1,33 @@
- o Make your way to the entrance of Cleyra and equip your party as follows:
-ZIDANE: Dagger, Bandana, Glass Armlet, Mythril Vest, Madain's Ring: Man Eater,,
-VIVI: Oak Staff, Mage's Hat, Bone Wrist, Magician Robe, Gold Choker: ,,
-QUINA: Needle Fork, Mage's Hat, Bone Wrist, Silk Robe, Yellow Scarf: Add Status,,
-FREYA: Javelin, Barbut, Silver Gloves, Chain Mail, Reflect Ring: HP+10%,Distract,
- o Head down the trunk, picking up the 4 treasures you skipped earlier.
-BATTLE: SOLDIER x 2                                              |
-  | • Simply have Vivi cast a multi-target Bio spell; it will usually deal  |
-  |   enough damage to make all the Soldiers escape.                        |
-  | • Keep Zidane's Attack menu open once Vivi's animation begins. If a     |
-  |   Soldier becomes Poisoned, she may die from the Poison damage before   |
-  |   she can escape. Keeping the menu open prevents this while still       |
-  |   allowing the Soldiers to escape.                                      |
-  | • If Bio doesn't deal sufficient damage, one attack from Zidane will    |
-  |   finish the job. 
-  .--| BATTLE: SOLDIER x 2 |----------------------------------------(0 AP)--.
-  |  '====================='                                         ¯¯¯¯   |
-  |                                                                         |
-  | • Same as above.                                                        |
-  |                                                                         |
-  '-------------------------------------------------------------------------'
-
- o Use an Elixir on Vivi after this second battle.
-
-     .=====================.                                         ____
-  .--| BATTLE: SOLDIER x 2 |----------------------------------------(0 AP)--.
-  |  '====================='                                         ¯¯¯¯   |
-  |                                                                         |
-  | • Same as above.                                                        |
-  |                                                                         |
-  '-------------------------------------------------------------------------'
-
-     .================.                                              ____
-  .--| BATTLE: TYPE B |---------------------------------------------(1 AP)--.
-  |  '================'                                              ¯¯¯¯   |
-  |                                                                         |
-  | • Have Quina attack with the Needle Fork and Vivi cast Stop.            |
-  | • You should have enough MP for 3 castings of Stop, which should be     |
-  |   enough to finish this battle.                                         |
-  |                                                                         |
-   >-----------------------------------------------------------------------<
-  |   Z   | Man Eater      6/25 | Insomniac      6/30 | Auto-Potion    6/30 |
-  |       | Body Temp      1/25 |                     |                     |
-  |   F   | Distract       6/25 | Bird Killer   15/30 | Dragon Killer 21/70 |
-  |   V   | Auto-Potion    7/10 |                     |                     |
-  '-------------------------------------------------------------------------'
-
- o After the battles, run into the sinkhole area, revive and heal your party
-   if necessary, accept Mopli's letter to Serino and save your game.
-
-   _________________________________________________________________________
-  | TARGET TIME : 03:46:07 (+ 6:10) | TARGET GIL :  39,853 | ENCOUNTERS : 0 |
+Equip Zidane with the Mythril Dagger, then remove Garnet's Silk Robe and Gold Choker; give the robe to Vivi and also equip him with the Ice Staff and Magus Hat; activate his Ability Up ability and Zidane's Bandit.
+Head for the Gargant platform. 
+ BATTLE: RALVUIMAGO 
+ • Have Vivi cast Blizzara, Zidane Steal and Garnet attack physically, 
+ in that order. 
+ • The boss will coil up, but will not attack while in this state. 
+ • While he is coiled up, have Zidane Steal. Wait for the boss to 
+ uncoil then rinse and repeat the attack pattern. 
+ • It takes 3 Blizzara spells to win. 
+ • You can also skip Garnet's attack during the first round and hope the 
+ boss doesn't use Thundara - this saves a round of coiling. 
+ • Make sure you Steal the Adaman Vest (64/256) - you will soon need it 
+ for fighting Lani.
+ Z Auto-Reflect 13/95 Distract 13/30 Man Eater 22/25 Insomniac 22/30 Auto-Potion 22/30 
+ V Insomniac 18/25 
+Once you gain control of Garnet, head straight back to the crash site to find the ending of the Hero's Tale.
+Return and run leftwards on the top path to find another piece of the story.
+Deliver Mosh's letter to Monty and save your game.
+ [TARGET TIME: 04:32:54]
+Pinnacle Rocks is theoretically skippable, but since you're collecting all the treasure, you may as well get the story pieces; they're right next to the chests, after all.
+Open the chest at the bottom of the slope, then find another segment of the story below the top path in a little cove.
+Go left and approach the chest to find yet another part, and open the chest afterwards.
+Go up the branch and around to jump down to the chest below; find the fifth piece of the story near this chest.
+Return and go past the point where you jumped to meet Ramuh. Recite the story with the ending you wish and attempt to leave Pinnacle Rocks.
+When given the choice to jump off from the ledge, choose NOT to and return to Monty to read the letter he received from Stiltzkin, save, and then leave Pinnacle Rocks. Monty is unreachable on Disc 4, meaning it won't be visible whether you read this letter or not, so if you don't care about it then you can jump off and save about a minute.
+In Lindblum, enter the inn, deliver Serino's letter, accept Moodon's letter and read the letter from Ruby; save if you wish.
+Exit the inn and head to the market square, taking care not to trigger the scene with the crowd around the black mage. Do this by walking as close as possible to the left side of the screen.
+At the square, search Card Freak Gon's house and the rubble to the left of it, then head to the shopping area to initiate some scenes.
+You'll find yourself in the shopping area afterwards, so drop by the synthesis shop and buy an Exploda.
+Take an aircab to the Theater District, and loot Artist Michael's studio and the Tantalus hideout. Then, speak to Lowell outside the hideout to recruit him into Ruby's theater in Alexandria.
+Return to the Business District and tell the man that you're ready to leave.
+Deliver Moodon's letter to Moonte at the Dragon's Gate, then save.
+ TARGET TIME : 04:43:21 (+18:47) TARGET GIL : 46,587 ENCOUNTERS : 0 
