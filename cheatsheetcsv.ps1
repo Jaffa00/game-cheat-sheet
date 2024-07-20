@@ -172,6 +172,9 @@ $jsHiddenCats = ''
             if($taglist -eq '') {$taglist='f_none'}
             $listdata +=$taglist
             #rest
+            $steptext = $step.text
+            $steptext.Replace("•","&#8226")
+
             $listdata += '">' + $step.text + '</li>
             '
         }

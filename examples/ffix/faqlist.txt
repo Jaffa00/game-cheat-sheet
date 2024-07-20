@@ -1,32 +1,52 @@
- o Head straight for the aircab dock - you'll have plenty of time for all other preparations once the festival timer starts.
- o Equip Zidane with The Ogre, Steepled Hat, Leather Wrist, Bronze Vest and Yellow Scarf; activate his Beast Killer ability; put him in the back row.
- o If you want Zidane or Vivi to win, then just wait in the Business District shopping area to fight Zaghnol.
- o Avoid the Trick Sparrow outside the station by hugging the right side of the screen (the Mu only appears after battling the Trick Sparrow so don't worry about it). Doing this also leaves you with the most possible options for monsters to fight after Zaghnol if you want a specific number of points for Zidane.
- o If you want Freya to be the victor, then engage one of the Fangs in the Business District. Either the one standing on the left or the one chasing Vivi will do.
- o Simply have Zidane remain idle and get beat up by the Fang to fill up his Trance gauge. Use a Potion whenever needed and knock out the Fang once you're 1 or 2 hits away from reaching Trance.
- o Wait until the clock reads 4:30 or less, then go to the square to fight...                                          ____
-BATTLE: ZAGHNOL 
-ZIDANE
-  | • Have Zidane and Freya throw Tent until it connects.                   |
-  | • Then make Freya Jump each round and Zidane Steal. Use a Potion if     |
-  |   Heave connects and have Zidane begin attacking once you've stolen the |
-  |   Needle Fork.                                                          |
-  | • Zaghnol has 1,574 HP; keep track of it with a calculator and make     |
-  |   sure Zidane deals the finishing blow.                                 |                                                                 |
-FREYA                                                                 |                                                             |
-  | • Make Zidane Steal and keep Freya on stand-by to administer Potion.    |
-  | • You will most likely need to get the Needle Fork within 2 attempts.   |
-  | • Zidane should enter Trance within 1 or 2 attacks from Zaghnol; once   |
-  |   he does and you have the Needle Fork, simply use Shift Break and have |
-  |   Freya Jump to end the battle with her dealing the finishing blow.     |
-VIVI                                                                  |
-  |   ¯¯¯¯                                                                  |
-  | • Have Zidane Steal until he grabs the Needle Fork and keep Freya on    |
-  |   stand-by to administer Potion or Phoenix Down if needed.              |
-  | • Knock out both of them once you have the Needle Fork.                 |
+ o Make your way to the entrance of Cleyra and equip your party as follows:
+ZIDANE: Dagger, Bandana, Glass Armlet, Mythril Vest, Madain's Ring: Man Eater,,
+VIVI: Oak Staff, Mage's Hat, Bone Wrist, Magician Robe, Gold Choker: ,,
+QUINA: Needle Fork, Mage's Hat, Bone Wrist, Silk Robe, Yellow Scarf: Add Status,,
+FREYA: Javelin, Barbut, Silver Gloves, Chain Mail, Reflect Ring: HP+10%,Distract,
+ o Head down the trunk, picking up the 4 treasures you skipped earlier.
+BATTLE: SOLDIER x 2                                              |
+  | • Simply have Vivi cast a multi-target Bio spell; it will usually deal  |
+  |   enough damage to make all the Soldiers escape.                        |
+  | • Keep Zidane's Attack menu open once Vivi's animation begins. If a     |
+  |   Soldier becomes Poisoned, she may die from the Poison damage before   |
+  |   she can escape. Keeping the menu open prevents this while still       |
+  |   allowing the Soldiers to escape.                                      |
+  | • If Bio doesn't deal sufficient damage, one attack from Zidane will    |
+  |   finish the job. 
+  .--| BATTLE: SOLDIER x 2 |----------------------------------------(0 AP)--.
+  |  '====================='                                         ¯¯¯¯   |
+  |                                                                         |
+  | • Same as above.                                                        |
+  |                                                                         |
+  '-------------------------------------------------------------------------'
 
- o If you want Zidane to win then after the battle you will still have the time left on the clock to seek out the necessary monster(s) for any remaining points. If you want to get 100 then it should be possible for almost all values awarded for Zaghnol; check the tables.
- o Don't forget to heal Zidane and equip The Ogre.
- o Some luck is involved as you never have more than a 1 out of 3 chance of getting the desired value, but these are rather good odds compared to some other things in this challenge.
- o After the scenes, take the lift to the base level station, ride to and open the chest at the Serpent's Gate and then ride straight to the Dragon's Gate.
- o Read the letter Moodon received from Stiltzkin, then save your game.
+ o Use an Elixir on Vivi after this second battle.
+
+     .=====================.                                         ____
+  .--| BATTLE: SOLDIER x 2 |----------------------------------------(0 AP)--.
+  |  '====================='                                         ¯¯¯¯   |
+  |                                                                         |
+  | • Same as above.                                                        |
+  |                                                                         |
+  '-------------------------------------------------------------------------'
+
+     .================.                                              ____
+  .--| BATTLE: TYPE B |---------------------------------------------(1 AP)--.
+  |  '================'                                              ¯¯¯¯   |
+  |                                                                         |
+  | • Have Quina attack with the Needle Fork and Vivi cast Stop.            |
+  | • You should have enough MP for 3 castings of Stop, which should be     |
+  |   enough to finish this battle.                                         |
+  |                                                                         |
+   >-----------------------------------------------------------------------<
+  |   Z   | Man Eater      6/25 | Insomniac      6/30 | Auto-Potion    6/30 |
+  |       | Body Temp      1/25 |                     |                     |
+  |   F   | Distract       6/25 | Bird Killer   15/30 | Dragon Killer 21/70 |
+  |   V   | Auto-Potion    7/10 |                     |                     |
+  '-------------------------------------------------------------------------'
+
+ o After the battles, run into the sinkhole area, revive and heal your party
+   if necessary, accept Mopli's letter to Serino and save your game.
+
+   _________________________________________________________________________
+  | TARGET TIME : 03:46:07 (+ 6:10) | TARGET GIL :  39,853 | ENCOUNTERS : 0 |
