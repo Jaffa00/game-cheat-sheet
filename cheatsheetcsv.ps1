@@ -7,21 +7,23 @@ Overwrite option
 #parameters
 param(
     #[Parameter(Mandatory)]
-    [string]$ConfigJSON = "./examples/ds3/ds3.json",
+    [string]$ConfigCSV = "./examples/ffix/ffix.csv",
     [string]$OutputFolder
 )
 
-if (!(Test-Path $ConfigJSON)) {
+if (!(Test-Path $ConfigCSV)) {
     #JSON not found
-    Write-Host "JSON file not found"
+    Write-Host "CSV file not found"
     exit 1
 }
-#$ConfigJSON = "./examples/ds3/ds3.json"
-$JSONfile = get-item $ConfigJSON
-$JSONObject = Get-Content $ConfigJSON | convertfrom-json
 
-write-host "JSON file found at $($JSONfile.FullName)"
-write-host "folder is $($JSONfile.Directory)"
+
+$CSVfile = get-item $ConfigCSV
+$CSVObject = Import-csv $ConfigCSV
+
+
+write-host "CSV file found at $($CSVfile.FullName)"
+write-host "folder is $($CSVfile.Directory)"
 
 if ($PSBoundParameters.ContainsKey("OutputFolder")) {
     if (!Test-Path $OutputFolder) {
@@ -32,8 +34,8 @@ if ($PSBoundParameters.ContainsKey("OutputFolder")) {
 }
 else {
     
-    $OutputFolder = $JSONfile.Directory
-    write-host "using json file folder for output:$($OutputFolder)"
+    $OutputFolder = $CSVfile.Directory
+    write-host "using csv file folder for output:$($OutputFolder)"
 }
 
 #Template files
@@ -44,10 +46,12 @@ $tJS = Get-Content ./js/main.js
 
 #single replacements
 
-$JSONObject.singles | ForEach-Object {
 
-    $tHTML = $tHTML.Replace("{{$($_.find)}}", $_.replace)
-}
+$tHTML = $tHTML.Replace("{{PAGE_TITLE}}", 'Game Cheat Sheet')
+$tHTML = $tHTML.Replace("{{PAGE_DESCRIPTION}}", 'Game Cheat Sheet')
+$tHTML = $tHTML.Replace("{{AUTHOR}}", 'Unknown author')
+$tHTML = $tHTML.Replace("{{TOP_HEADER}}", 'Game&nbsp;Cheat&nbsp;Sheet')
+$tHTML = $tHTML.Replace("{{LEAD}}", '')
 
 #region tabs
 
@@ -57,12 +61,11 @@ $tabdata = ""
 $jsHiddenCats = ''
 
 
-$JSONObject.tabs | ForEach-Object {
-    #$tab = [System.Web.HttpUtility]::UrlEncode($_.title)
-    $tab = $_.title -replace "\W"
+
+    $tab = 'Walkthrough'
     if ($boolFirst) {
         $navlinks += '<li class="active">'
-        $tabdata += "      <!-- $($_.title.ToUpper()) START -->      
+        $tabdata += "      <!-- WALKTHROUGH START -->      
         <div class=""tab-pane active"" id=""tab$tab"">
         "
         $boolFirst = $false
@@ -81,22 +84,11 @@ $JSONObject.tabs | ForEach-Object {
     #filters
     
     
-    $tabdata += '<h2>Filter Checklist 
-    '
-    #NG  don't really like this
-    if ($_.ngtoggle) {
-        $tabdata += '      <span class="btn-group btn-group-toggle" data-toggle="buttons">
-            <label class="btn btn-default"><input type="radio" name="journey" data-ng-toggle="1">NG</label>
-            <label class="btn btn-default"><input type="radio" name="journey" data-ng-toggle="2">NG+</label>
-            <label class="btn btn-default"><input type="radio" name="journey" data-ng-toggle="3">NG++</label>
-          </span>
-          '     
-    }
-    $tabdata += '    </h2>
+    $tabdata += '<h2>Filter Checklist</h2>
     '
 
-    #filter buttons
-    $tabdata += '<div class="btn-group">
+    #filter buttons - ignore for now
+    <# $tabdata += '<div class="btn-group">
     '
     
 
@@ -145,28 +137,30 @@ $JSONObject.tabs | ForEach-Object {
     
     
     $tabdata += '</div>
-    '
+    ' #>
 
     #next - steps
     $sectionid = 0
-    $tocdata = '<h2>' + $_.title + ' Checklist <span id="' + $tab + '_overall_total"></span></h2>
+    $tocdata = '<h2>Walkthrough Checklist <span id="' + $tab + '_overall_total"></span></h2>
     <ul class="table_of_contents">
     '
     $listdata = ""
     
-    foreach ($section in $_.sections) {
+    $sections = $CSVObject | Select-Object -Property area -Unique
+
+    foreach ($section in $sections) {
         $sectionid += 1
         #$datatitle = [System.Web.HttpUtility]::UrlEncode($section.title)
-        $datatitle = $section.title -replace "\W"
-        $tocdata += '<li><a href="#' + $datatitle + '">' + $section.title + '</a> <span id="' + $tab + '_nav_totals_' + $sectionid + '"></span></li>
+        $datatitle = $section.area -replace "\W"
+        $tocdata += '<li><a href="#' + $datatitle + '">' + $section.area + '</a> <span id="' + $tab + '_nav_totals_' + $sectionid + '"></span></li>
         '
         
-        $listdata += '<h3 id="' + $datatitle + '"><a href="#' + $datatitle + '_col" data-toggle="collapse" class="btn btn-primary btn-collapse btn-sm"></a><a href="' + $section.url + '">' + $section.title + '</a> <span id="' + $tab + '_totals_' + $sectionid + '"></span></h3>
+        $listdata += '<h3 id="' + $datatitle + '"><a href="#' + $datatitle + '_col" data-toggle="collapse" class="btn btn-primary btn-collapse btn-sm"></a><a href="' + $section.url + '">' + $section.area + '</a> <span id="' + $tab + '_totals_' + $sectionid + '"></span></h3>
           <ul id="' + $datatitle + '_col" class="collapse in">
         '
 
         $stepid = 0
-        foreach ($step in $section.steps) {
+        foreach ($step in $CSVObject | where-object area -eq $section.area) {
             $stepid += 1
             $listdata += '<li data-id="' + $tab + '_' + $sectionid + '_' + $stepid + '" class="'
             #tags 
@@ -201,7 +195,7 @@ $JSONObject.tabs | ForEach-Object {
     $tabdata += '</div>
     </div>
     '
-}
+
 
 #endregion tabs
 

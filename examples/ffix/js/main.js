@@ -309,7 +309,7 @@ var profilesKey = 'darksouls3_profiles';
             profiles[profilesKey][profile_name].journey = 1;
         if (!('hidden_categories' in profiles[profilesKey][profile_name]))
             profiles[profilesKey][profile_name].hidden_categories = {
-//{{HIDDENCATS}}
+
             };
     }
 

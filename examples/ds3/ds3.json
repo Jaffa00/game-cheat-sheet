@@ -30,13 +30,17 @@
                     "category": "Quests",
                     "items": [
                         {
-                            "title": "Bosses"
+                            "title": "Bosses",
+                            "id":1
                         },
                         {
                             "title": "Missable"
+                            ,
+                            "id":2
                         },
                         {
-                            "title": "NPCs"
+                            "title": "NPCs",
+                            "id":3
                         }
                     ]
                 },
@@ -44,19 +48,24 @@
                     "category": "Upgrades",
                     "items": [
                         {
-                            "title": "Estus Shards"
+                            "title": "Estus Shards",
+                            "id":4
                         },
                         {
-                            "title": "Undead Bone Shards"
+                            "title": "Undead Bone Shards",
+                            "id":5
                         },
                         {
-                            "title": "Scrolls/Tomes"
+                            "title": "Scrolls/Tomes",
+                            "id":6
                         },
                         {
-                            "title": "Coals"
+                            "title": "Coals",
+                            "id":7
                         },
                 {
-                            "title": "Ashes"
+                            "title": "Ashes",
+                            "id":8
                         }
                     ]
                 },
@@ -64,19 +73,24 @@
                     "category": "Achievements",
                     "items": [
                         {
-                            "title": "Gestures"
+                            "title": "Gestures",
+                            "id":9
                         },
                         {
-                            "title": "Sorceries"
+                            "title": "Sorceries",
+                            "id":10
                         },
                         {
-                            "title": "Pyromancies"
+                            "title": "Pyromancies",
+                            "id":11
                         },
                         {
-                            "title": "Miracles"
+                            "title": "Miracles",
+                            "id":12
                         },
                         {
-                            "title": "Rings"
+                            "title": "Rings",
+                            "id":13
                         }
                     ]
                 },
@@ -84,10 +98,12 @@
                     "category": "Gear",
                     "items": [
                         {
-                            "title": "Weapons"
+                            "title": "Weapons",
+                            "id":14
                         },
                         {
-                            "title": "Armor"
+                            "title": "Armor",
+                            "id":15
                         }
                     ]
                 },
@@ -95,10 +111,12 @@
                     "category": "Materials",
                     "items": [
                         {
-                            "title": "Titanite"
+                            "title": "Titanite",
+                            "id":16
                         },
                         {
-                            "title": "Gems"
+                            "title": "Gems",
+                            "id":17
                         }
                     ]
                 },
@@ -106,80 +124,293 @@
                     "category": "Others",
                     "items": [
                         {
-                            "title": "Covenants"
+                            "title": "Covenants",
+                            "id":18
                         },
                         {
-                            "title": "Misc. items"
+                            "title": "Misc. items",
+                            "id":19
                         }
                     ]
                 }
             ],
             "sections": [
                 {
-                    "title": "Cemetery of Ash"
+                    "title": "Cemetery of Ash",
+                    "url":"http://darksouls3.wiki.fextralife.com/Cemetery+of+Ash",
+                    "steps": [{"text":"From the start head right at the first turn and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Deserted+Corpse\">Soul of a Deserted Corpse</a>","tags":["Misc. items"]},
+                    {"text":"Loot the corpse on the fountain to obtain the <a href=\"http://darksouls3.wiki.fextralife.com/Ashen+Estus+Flask\">Ashen Estus Flask</a>","tags":["Estus Shards","h_ng+"]},
+                    {"text":"Turn right after the fountain and head down the path through a flooded passage. Kill the <a href=\"http://darksouls3.wiki.fextralife.com/Ravenous+Crystal+Lizard\">Ravenous Crystal Lizard</a> to get a <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\">Titanite Scale</a> and then pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+an+Unknown+Traveler\">Soul of an Unknown Traveler</a> from the corpse in the area","tags":["Misc. items","Titanite"]},
+                    {"text":"The <a href=\"https://darksouls3.wiki.fextralife.com/Speckled+Stoneplate+Ring\">Speckled Stoneplate Ring+1</a> is also in this area","tags":["Rings","s_ng+"]},
+                    {"text":"Head back to the fountain and take the path straight ahead. Climb the cliff and rest at the Cemetery of Ash bonfire to receive the Rest gesture","tags":["Gestures"]},
+                    {"text":"From the bonfire head down the left path and jump from the cliff over to the corpse on the tomb to pick up a <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>","tags":["Titanite"]},
+                    {"text":"Take the side ridge down from the large cliff face on the right to pick up <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\">Firebomb&nbsp;x5</a> from a nearby corpse","tags":["Misc. items"]},
+                    {"text":"Back on the main path head through the archway and take the sword embedded in the statue. Kill <a href=\"http://darksouls3.wiki.fextralife.com/Iudex+Gundyr\">Iudex Gundyr</a> to receive the <a href=\"http://darksouls3.wiki.fextralife.com/Coiled+Sword\">Coiled Sword</a>","tags":["Bosses","Misc. items"]},
+                    {"text":"Congratulate yourself on beating the first boss of Dark Souls 3 and rest at the <a href=\"http://darksouls3.wiki.fextralife.com/Iudex+Gundyr\">Iudex Gundyr</a> bonfire"},
+                    {"text":"Continue through the large door and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Broken+Straight+Sword\">Broken Straight Sword</a> from the corpse leaning on the tombstone","tags":["Weapons"]},
+                    {"text":"The <a href=\"https://darksouls3.wiki.fextralife.com/Wolf+Ring\">Wolf Ring+2</a> is behind the door you just passed","tags":["Rings","s_ng++"]},
+                    {"text":"Head over to the large cliff edge and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone</a> at the edge of the ridge","tags":["Misc. items"]},
+                    {"text":"Take the left path up the cliff and turn left just before <a href=\"http://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a> and grab the <a href=\"http://darksouls3.wiki.fextralife.com/East-West+Shield\">East-West Shield</a> from the corpse on the tree","tags":["Weapons"]},
+                    {"text":"Kill <a href=\"http://darksouls3.wiki.fextralife.com/Sword+Master\">Sword Master Saber</a> to get <a href=\"http://darksouls3.wiki.fextralife.com/Uchigatana\">Uchigatana</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Master's+Set\">Master's Set</a> and to unlock his summon sign","tags":["Armor","Weapons","Missable"]},
+                    {"text":"Head back and up the path to the left to pick up an <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a> from a corpse above the entrance above <a href=\"http://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a>","tags":["Misc. items"]},
+                    {"text":"Continue across to the other side picking up a <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone</a> from a corpse behind a tomb and another <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a> from the lower ridge ","tags":["Misc. items"]},
+                    {"text":"Go back to the main path and enter <a href=\"http://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a>"}
+                    ]
                 },
                 {
-                    "title": "Firelink Shrine"
+                    "title": "Firelink Shrine",
+                    "steps":[{"text":"Talk to <a href=\"http://darksouls3.wiki.fextralife.com/Fire+Keeper\">Fire Keeper</a>"},
+                    {"text":"Talk to <a href=\"http://darksouls3.wiki.fextralife.com/Shrine+Handmaid\">Shrine Handmaid</a>"},
+                    {"text":"Talk to <a href=\"http://darksouls3.wiki.fextralife.com/Hawkwood\">Hawkwood</a> to receive the Collapse gesture","tags":["Gestures","Missable"]},
+                    {"text":"Talk to <a href=\"http://darksouls3.wiki.fextralife.com/Blacksmith+Andre\">Blacksmith Andre</a> to receive the Hurrah! gesture","tags":["Gestures"]},
+                    {"text":"Go out the top of <a href=\"http://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a> and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Deserted+Corpse\">Soul of a Deserted Corpse</a> from the corpse next to the small decrepit tower","tags":["Misc. items"]},
+                    {"text":"When you have the <a href=\"http://darksouls3.wiki.fextralife.com/Tower+Key\">Tower Key</a>, unlock the small decrepit tower and head up to the bridge leading to the Bell Tower"},
+                    {"text":"Roll off the bridge onto the <a href=\"http://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a> roof and kick down the ladder shortcut"},
+                    {"text":"Just behind the roof kill the <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\">Crystal Lizard</a> to get a <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\">Twinkling Titanite</a> ","tags":["Titanite"]},
+                    {"text":"Pick up <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone&nbsp;x3</a> from the lower part of the roof","tags":["Misc. items"]},
+                    {"text":"Inside the roof pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Estus+Shard\">Estus Shard</a> from up in the rafters","tags":["Estus Shards"]},
+                    {"text":"Trade a <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone</a> with <a href=\"http://darksouls3.wiki.fextralife.com/Pickle+Pee,+Pump-a-Rum+Crow\">Pickle-Pee, Pump-a-Rum</a> crow to receive the Call Over gesture and the <a href=\"http://darksouls3.wiki.fextralife.com/Iron+Bracelets\">Iron Bracelets</a>. ","tags":["Armor","Gestures"]},
+                    {"text":"Hit the <a href=\"http://darksouls3.wiki.fextralife.com/Illusory+Walls\">illusory wall</a> at the back of the rafters and drop down to get the <a href=\"http://darksouls3.wiki.fextralife.com/Covetous+Silver+Serpent+Ring\">Covetous Silver Serpent Ring</a> from the chest","tags":["Rings"]},
+                    {"text":"Head into the Bell Tower, go up the lift and <a href=\"http://darksouls3.wiki.fextralife.com/Unbreakable+Patches\">Patches</a> may close the door depending on your progress in the game"},
+                    {"text":"At the top of the Bell Tower, pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Fire%20Keeper+Soul\">Fire Keeper Soul</a>","tags":["Misc. items"]},
+                    {"text":"Go back down the lift and look down the right side. Carefully jump down to the tombstone and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Fire+Keeper+Set\">Fire Keeper Set</a> from the corpse ","tags":["Armor"]},
+                    {"text":"Make your way down to the bottom and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Estus+Ring\">Estus Ring</a> from another corpse and open the door","tags":["Rings"]}
+                ]
                 },
                 {
-                    "title": "High Wall of Lothric"
+                    "title": "High Wall of Lothric",
+                    "steps":[
+                        {"text":"Open the door ahead and rest at the High Wall of Lothric bonfire"},
+{"text":"Take the right path onto the rampart and head down the small stairs on the left. Pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Deserted+Corpse\">Soul of a Deserted Corpse</a> from the corpse","tags":["Misc. items"]},
+{"text":"Head back up the stairs and up the next set of stairs at the end of the rampart. If you want <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a>, wait for one of the undead to transform into <a href=\"http://darksouls3.wiki.fextralife.com/Pus+of+Man\">Pus of Man</a> and then kill it. Also, pick up <a href=\"http://darksouls3.wiki.fextralife.com/Longbow\">Longbow</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Standard+Arrow\">Standard Arrow&nbsp;x12</a> from the corpse","tags":["Misc. items","Titanite","Weapons"]},
+{"text":"Go back to the bonfire and this time head down the left path. Pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Deserted+Corpse\">Soul of a Deserted Corpse</a> from the corpse","tags":["Misc. items"]},
+{"text":"Head up the stairs at the end of the rampart and up some more stairs to the top of the turret. Pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Binoculars\">Binoculars</a> from the corpse","tags":["Misc. items"]},
+{"text":"Go back downstairs and drop down behind the dragon. Enter the small doorway to pick up <a href=\"http://darksouls3.wiki.fextralife.com/Gold+Pine+Resin\">Gold Pine Resin&nbsp;x2</a> from the corpse","tags":["Misc. items"]},
+{"text":"Drop into the indoor room and pick up <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\">Firebomb&nbsp;x2</a> from the corpse beside the table","tags":["Misc. items"]},
+{"text":"Go down the ladder and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Deserted+Corpse\">Soul of a Deserted Corpse</a> from the corpse outside of the cell","tags":["Misc. items"]},
+{"text":"Snipe the dragon until it drops a <a href=\"http://darksouls3.wiki.fextralife.com/Large+Titanite+Shard\">Large Titanite Shard</a> and flies away","tags":["Titanite"]},
+{"text":"Grab the <a href=\"http://darksouls3.wiki.fextralife.com/Claymore\">Claymore</a>, <a href=\"http://darksouls3.wiki.fextralife.com/Club\">Club</a>, <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a> and <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\">Large Soul of a Deserted Corpse</a> from in front of where the dragon was","tags":["Misc. items","Weapons"]},
+{"text":"Open the door underneath where the dragon was. Go downstairs. Either kill the <a href=\"http://darksouls3.wiki.fextralife.com/Mimic\">Mimic</a> or hit it with an <a href=\"http://darksouls3.wiki.fextralife.com/Undead+Hunter+Charm\">Undead Hunter Charm</a> to get the <a href=\"http://darksouls3.wiki.fextralife.com/Battle+Axe\">Deep Battle Axe</a>","tags":["Weapons"]},
+{"text":"Head out the door on the other side and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Deserted+Corpse\">Soul of a Deserted Corpse</a> from the corpse on the left","tags":["Misc. items"]},
+{"text":"Go into the next building and pick up <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\">Firebomb&nbsp;x3</a> from the wooden beam","tags":["Misc. items"]},
+{"text":"Go out the side exit and up the stairs and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a> from the corpse. Light the Tower on the Wall bonfire","tags":["Titanite"]},
+{"text":"After lighting the Tower on the Wall bonfire, return to <a href=\"http://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a> and talk to <a href=\"http://darksouls3.wiki.fextralife.com/Leonhard\">Ringfinger Leonhard</a> who gives you <a href=\"http://darksouls3.wiki.fextralife.com/Cracked+Red+Eye+Orb\">Cracked Red Eye Orb&nbsp;x5</a>. He'll be by Lothric's throne. If he isn't at this point, try killing Vordt and check again","tags":["Misc. items"]},
+{"text":"Back inside the building go down the stairs, out the side door, and pick up a <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Deserted+Corpse\">Soul of a Deserted Corpse</a> from the corpse on the right","tags":["Misc. items"]},
+{"text":"Head onto the roof. If you want <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a>, wait for one of the undead to transform into <a href=\"http://darksouls3.wiki.fextralife.com/Pus+of+Man\">Pus of Man</a> and then kill it. And pick up <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\">Firebomb&nbsp;x3</a> from the corpse. Continue on and kill the <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\">Crystal Lizard</a> to receive a <a href=\"http://darksouls3.wiki.fextralife.com/Raw+Gem\">Raw Gem</a>. There is another corpse on the roof which holds a <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\">Large Soul of a Deserted Corpse</a>"},
+{"text":"The <a href=\"https://darksouls3.wiki.fextralife.com/Fleshbite+Ring\">Fleshbite Ring+1</a> is on another roof that can be jumped to","tags":["Rings","s_ng+"]},
+{"text":"Take the ladder down and go onto the side roof to get <a href=\"http://darksouls3.wiki.fextralife.com/Black+Firebomb\">Black Firebomb&nbsp;x3</a> from the corpse","tags":["Misc. items"]},
+{"text":"On the adjacent balcony with the archers pick up <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\">Firebomb&nbsp;x3</a> from the corpse","tags":["Misc. items"]},
+{"text":"Go back inside the earlier building next to the ladder. Take the immediate left and roll into the pots to get <a href=\"http://darksouls3.wiki.fextralife.com/Undead+Hunter+Charm\">Undead Hunter Charm&nbsp;x2</a> from the corpse. Continue inside and grab the <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a> from the corpse while being cautious of the ambush","tags":["Misc. items","Titanite"]},
+{"text":"Back in the main room pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Deserted+Corpse\">Soul of a Deserted Corpse</a> from the corpse tucked inside the first corner","tags":["Misc. items"]},
+{"text":"Continue through the doorway and take the next door on the left. Pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Broadsword\">Broadsword</a> from the corpse","tags":["Weapons"]},
+{"text":"Head down the stairs taking the right path and get the <a href=\"http://darksouls3.wiki.fextralife.com/Silver+Eagle+Kite+Shield\">Silver Eagle Kite Shield</a> from the chest","tags":["Weapons"]},
+{"text":"Head back to the original entrance and find the doorway blocked by debris. Roll through it and pick up <a href=\"http://darksouls3.wiki.fextralife.com/Green+Blossom\">Green Blossom&nbsp;x2</a> at the end of the ledge","tags":["Misc. items"]},
+{"text":"Drop down and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Astora+Straight+Sword\">Astora Straight Sword</a> from the chest","tags":["Weapons"]},
+{"text":"Continue into the room and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Cell+Key\">Cell Key</a> and <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a> from the corpses around the room"},
+{"text":"Grab an <a href=\"http://darksouls3.wiki.fextralife.com/Estus+Shard\">Estus Shard</a> on the altar in the same room","tags":["Estus Shards"]},
+{"text":"The <a href=\"https://darksouls3.wiki.fextralife.com/Ring+of+the+Evil+Eye\">Ring of the Evil Eye+2</a> is in the back of the room behind some barrels","tags":["Rings","s_ng++"]},
+{"text":"Head out the lower level and drop down to pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Rapier\">Rapier</a> next to the drain","tags":["Weapons"]},
+{"text":"On corpses around the fountain you can collect <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a> and another <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a>","tags":["Misc. items"]},
+{"text":"Head out towards the courtyard and turn left to pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Deserted+Corpse\">Soul of a Deserted Corpse</a> from a corpse","tags":["Misc. items"]},
+{"text":"Go upstairs right of the courtyard entrance and head straight along the path. After leaving the first door immediately turn left to find <a href=\"http://darksouls3.wiki.fextralife.com/Green+Blossom\">Green Blossom&nbsp;x3</a> on a corpse","tags":["Misc. items"]},
+{"text":"Activate the elevator to open up a shortcut from the High Wall bonfire. Behind the elevator at the top is <a href=\"http://darksouls3.wiki.fextralife.com/Throwing+Knife\">Throwing Knife&nbsp;x6</a> on a corpse","tags":["Misc. items"]},
+{"text":"Travel to the Tower on the Wall and proceed all the way down inside the tower. Go into the next room and pick up <a href=\"http://darksouls3.wiki.fextralife.com/Throwing+Knife\">Throwing Knife&nbsp;x8</a> on the corpse","tags":["Misc. items"]},
+{"text":"Continue along the passageway and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Mail+Breaker\">Mail Breaker</a> opposite the door on a corpse","tags":["Weapons"]},
+{"text":"Further down in this area you will find a locked cell. With the <a href=\"http://darksouls3.wiki.fextralife.com/Cell+Key\">Cell Key</a> you can free <a href=\"http://darksouls3.wiki.fextralife.com/Greirat+of+the+Undead+Settlement\">Greirat of the Undead Settlement</a> and talk to him. If you agree to find Loretta, he gives you the <a href=\"http://darksouls3.wiki.fextralife.com/Blue+Tearstone+Ring\">Blue Tearstone Ring</a>. He then moves to <a href=\"http://darksouls3.wiki.fextralife.com/Firelink+Shrine\">Firelink Shrine</a>"},
+{"text":"Travel to the High Wall of Lothric and take the elevator shortcut down. Head back towards the main courtyard but this time take the stairs to the left overlooking the fountain area. Grab the <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\">Large Soul of a Deserted Corpse</a> on the rooftop","tags":["Misc. items"]},
+{"text":"Jump onto the awning to pick up a <a href=\"http://darksouls3.wiki.fextralife.com/Ring+of+Sacrifice\">Ring of Sacrifice</a>","tags":["Rings"]},
+{"text":"Continue back to the courtyard. In the corner of the terrace just before the stairs leading down, you can summon <a href=\"http://darksouls3.wiki.fextralife.com/Lion+Knight+Albert\">Lion Knight Albert</a>","tags":["Bosses","Missable"]},
+{"text":"Head to the left. Go up the stairs on the left just before the castle and kill the red-eyed <a href=\"http://darksouls3.wiki.fextralife.com/Lothric+Knight\">Lothric Knight</a> to get a <a href=\"http://darksouls3.wiki.fextralife.com/Refined+Gem\">Refined Gem</a>"},
+{"text":"Inside the chapel talk to <a href=\"http://darksouls3.wiki.fextralife.com/Emma\">Emma, High Priestess of Lothric Castle</a> to receive the <a href=\"http://darksouls3.wiki.fextralife.com/Small+Lothric+Banner\">Small Lothric Banner</a>. Talk to her again for the <a href=\"http://darksouls3.wiki.fextralife.com/Way+of+Blue\">Way of Blue</a> covenant"},
+{"text":"Heading out from the chapel take the left stairs and pick up the <a href=\"http://darksouls3.wiki.fextralife.com/Lucerne\">Lucerne</a> from the corpse","tags":["Weapons"]},
+{"text":"Just before walking through the great gate, you can summon <a href=\"http://darksouls3.wiki.fextralife.com/Sword+Master\">Sword Master Saber</a> if he was killed earlier at Firelink Shrine","tags":["Bosses","Missable"]},
+{"text":"Proceed through the gate and kill <a href=\"http://darksouls3.wiki.fextralife.com/Vordt+of+the+Boreal+Valley\">Vordt of the Boreal Valley</a>; receive <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+Boreal+Valley+Vordt\">Soul of Boreal Valley Vordt</a>. After killing Vordt, raise the banner at the cliff to access the <a href=\"http://darksouls3.wiki.fextralife.com/Undead+Settlement\">Undead Settlement</a>","tags":["Bosses","Misc. items"]}
+
+                    ]
                 },
                 {
-                    "title": "Undead Settlement"
+                    "title": "Undead Settlement",
+                    "steps":[
+                        {"text":"After the Bat Wing Demons have dropped you off, walk to the left and grab a <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\">Large Soul of a Deserted Corpse</a>","tags":["Misc. items"]},
+{"text":"Go downstairs. Walk behind an overturned carriage and kill two <a href=\"http://darksouls3.wiki.fextralife.com/Dog\">Dogs</a> to get <a href=\"http://darksouls3.wiki.fextralife.com/Alluring+Skull\">Alluring Skull&nbsp;x2</a>","tags":["Misc. items"]},
+{"text":"Find <a href=\"http://darksouls3.wiki.fextralife.com/Yoel+of+Londor\">Yoel of Londor</a> below the Foot of the High Wall bonfire amongst several other Pilgrims. Talk to him and agree to his request and he moves to Firelink Shrine. Head back to Firelink Shrine and talk to Yoel to receive the Beckon gesture. Accept Yoel's offer to Draw Out True Strength which gains you a free level and a <a href=\"http://darksouls3.wiki.fextralife.com/Dark+Sigil\">Dark Sigil</a>. From now on, for each time you die, you gain 1 Hollowing per Dark Sigil. Yoel offers 4 more free levels at 2, 6, 12, and 15 Hollowing, so getting all 5 Dark Sigils should not take long. If you do not get all 5 Dark Sigils before reaching the Catacombs of Carthus, Yoel dies which voids the Usurpation of Fire Ending","tags":["Gestures"]},
+{"text":"After you get all 5 Dark Sigils and refresh the world, Yoel dies with <a href=\"http://darksouls3.wiki.fextralife.com/Yuria+of+Londor\">Yuria of Londor</a> watching over his newfound corpse. Talk to her to receive the Dignified Bow gesture and buy the <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\">Londor Braille Divine Tome</a>","tags":["Gestures"]},
+{"text":"Near Yoel, you will find <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone&nbsp;x2</a> on the far left edge of the bridge","tags":["Misc. items"]},
+{"text":"From the Undead Settlement bonfire, enter the house. Cut down a glowing hanging corpse to get the <a href=\"http://darksouls3.wiki.fextralife.com/Small+Leather+Shield\">Small Leather Shield</a>","tags":["Weapons"]},
+{"text":"Walk downstairs to get <a href=\"http://darksouls3.wiki.fextralife.com/Charcoal+Pine+Bundle\">Charcoal Pine Bundle&nbsp;x2</a>. Walk out onto the balcony and cut down the hanging body. Turn right around the corner to get <a href=\"http://darksouls3.wiki.fextralife.com/Repair+Powder\">Repair Powder&nbsp;x2</a>","tags":["Misc. items"]},
+{"text":"Walk downstairs to get another <a href=\"http://darksouls3.wiki.fextralife.com/Charcoal+Pine+Bundle\">Charcoal Pine Bundle&nbsp;x2</a>","tags":["Misc. items"]},
+{"text":"Go outside and grab <a href=\"http://darksouls3.wiki.fextralife.com/Loretta's+Bone\">Loretta's Bone</a> from the body you cut down"},
+{"text":"Grab an <a href=\"http://darksouls3.wiki.fextralife.com/Estus+Shard\">Estus Shard</a> by the burning tree with worshipping undead","tags":["Estus Shards"]},
+{"text":"On the other side of the tree, grab an <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a>. Shoot down a hanging corpse from the tree to get <a href=\"http://darksouls3.wiki.fextralife.com/Kukri\">Kukri&nbsp;x9</a>. Walk to the closed gate to grab a <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+an+Unknown+Traveler\">Soul of an Unknown Traveler</a>","tags":["Misc. items"]},
+{"text":"Walk to the right of the house to grab a <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>","tags":["Titanite"]},
+{"text":"Walk through a large archway of the house, open a door, and walk into the room. Grab <a href=\"http://darksouls3.wiki.fextralife.com/Charcoal+Pine+Resin\">Charcoal Pine Resin&nbsp;x2</a> from a corpse near the wall. Cut down the bodies hanging over the staircase to get a <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\">Large Soul of a Deserted Corpse</a>. Drop down from a hole in the room. In this hidden room, discover the <a href=\"http://darksouls3.wiki.fextralife.com/Warrior+of+Sunlight\">Warrior of Sunlight</a> covenant and consume <a href=\"http://darksouls3.wiki.fextralife.com/Estus+Soup\">Estus Soup</a>"},
+{"text":"Open the door and walk to the end of the hallway. You should now be on the main street of the neighborhood. Head right and break through the wooden crates between the first gap on your right. Grab a <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+an+Unknown+Traveler\">Soul of an Unknown Traveler</a>","tags":["Misc. items"]},
+{"text":"Walk back the main street and proceed. A wooden door should automatically break. Walk into that house to get the <a href=\"http://darksouls3.wiki.fextralife.com/Whip\">Whip</a>","tags":["Weapons"]},
+{"text":"Proceed back onto the main street. Walk until you see a wooden wheel to your right. Walk around the corner to get a <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>","tags":["Titanite"]},
+{"text":"Climb up the balcony with an <a href=\"http://darksouls3.wiki.fextralife.com/Evangelist\">Evangelist</a>. Grab a <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>","tags":["Titanite"]},
+{"text":"Climb down from the balcony and walk onto a rooftop. Jump onto the wooden platform on your left to grab <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\">Rusted Coin&nbsp;x2</a>","tags":["Misc. items"]},
+{"text":"Jump down to kill the <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\">Crystal Lizard</a> which drops a <a href=\"http://darksouls3.wiki.fextralife.com/Sharp+Gem\">Sharp Gem</a>. Light the Dilapidated Bridge bonfire further below"},
+{"text":"Mad dark spirit <a href=\"http://darksouls3.wiki.fextralife.com/Holy+Knight+Hodrick\">Holy Knight Hodrick</a> will invade near the Dilapidated Bridge bonfire if you are embered. Kill him for his <a href=\"http://darksouls3.wiki.fextralife.com/Vertebra+Shackle\">Vertebra Shackle</a>","tags":["Misc. items"]},
+{"text":"Get back to the burning tree near the beginning of Undead Settlement, walk across the bridge, and walk around the right which should be blocked by wooden crates and barrels. Walk towards the houses with the <a href=\"http://darksouls3.wiki.fextralife.com/Thrall\">Thralls</a>. Find a <a href=\"http://darksouls3.wiki.fextralife.com/Fading+Soul\">Fading Soul</a> here. Walk around one of the houses to get the <a href=\"http://darksouls3.wiki.fextralife.com/Plank+Shield\">Plank Shield</a>. Walk onto the rooftop of the house to your left and grab <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\">Firebomb&nbsp;x6</a>","tags":["Misc. items","Weapons"]},
+{"text":"Climb onto the rooftop of the other house and grab <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone&nbsp;x2</a>. Jump down to where a non-hostile Cage Carrier is walking around. Cut down the hanging corpse at the end and grab the <a href=\"http://darksouls3.wiki.fextralife.com/Flame+Stoneplate+Ring\">Flame Stoneplate Ring</a>. (If the corpse falls down and you are unable get the item, just proceed to the next step)","tags":["Misc. items","Rings"]},
+{"text":"Examine the Cage Carrier from behind. After you get out of your cage, walk towards the light. Grab the <a href=\"http://darksouls3.wiki.fextralife.com/Wargod+Wooden+Shield\">Wargod Wooden Shield</a>. Talk to <a href=\"http://darksouls3.wiki.fextralife.com/Holy+Knight+Hodrick\">Holy Knight Hodrick</a> to receive the <a href=\"http://darksouls3.wiki.fextralife.com/Mound-Maker\">Mound-makers</a> covenant and a <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone</a>. (If you have reached the Curse-rotted Greatwood before reaching the Cage Carrier, Hodrick dies and the Cage Carrier becomes hostile. Thus, you cannot acquire the covenant until later through Sirris' sidequest.) Quit and reload to reappear near the Cage Carrier. Retrieve the ring if you missed it before"},
+{"text":"Head back, dropping down a small ledge on the left. Enter the house near the bridge and pick up a <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\">Large Soul of a Deserted Corpse</a>. Then open the backdoor","tags":["Misc. items"]},
+{"text":"From your right, get the <a href=\"http://darksouls3.wiki.fextralife.com/Caduceus+Round+Shield\">Caduceus Round Shield</a>","tags":["Weapons"]},
+{"text":"Walk across the bridge towards the house in view and jump down to the ledge on your right. When you are on the ledge, walk towards the bridge to get a <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>","tags":["Titanite"]},
+{"text":"The other way leads you to the Cliff Underside bonfire under the house and to a way up"},
+{"text":"Walk to the top of the house and find a cage that houses <a href=\"http://darksouls3.wiki.fextralife.com/Cornyx+of+the+Great+Swamp\">Cornyx of the Great Swamp</a>. Talk to him, and he moves to Firelink Shrine. At the Shrine, talk to him multiple times to receive your <a href=\"http://darksouls3.wiki.fextralife.com/Pyromancy+Flame\">Pyromancy Flame</a> (unless you are already a pyromancer) and the Welcome gesture","tags":["Gestures","Weapons"]},
+{"text":"Grab the <a href=\"http://darksouls3.wiki.fextralife.com/Hand+Axe\">Hand Axe</a> and get a <a href=\"http://darksouls3.wiki.fextralife.com/Partizan\">Partizan</a> from a nearby hanging body","tags":["Weapons"]},
+{"text":"Walk down from the house and walk onto the gallow. Grab a <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+an+Unknown+Traveler\">Soul of an Unknown Traveler</a>. Walk across the unfinished bridge to get the <a href=\"http://darksouls3.wiki.fextralife.com/Fire+Clutch+Ring\">Fire Clutch Ring</a>","tags":["Misc. items","Rings"]},
+{"text":"Walk through the archway of the house and down the stairs. Walk left and around the corner to get a <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\">Large Soul of a Deserted Corpse</a>. Walk downstairs and towards a tree with a <a href=\"http://darksouls3.wiki.fextralife.com/Dog\">Dog</a>. Kill it and get the <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a>","tags":["Misc. items"]},
+{"text":"Run towards the bridge, and enter the sewers on the right. Kill a Giant <a href=\"http://darksouls3.wiki.fextralife.com/rat\">Rat</a> to get the <a href=\"http://darksouls3.wiki.fextralife.com/Bloodbite+Ring\">Bloodbite Ring</a>. Grab the <a href=\"http://darksouls3.wiki.fextralife.com/Caestus\">Caestus</a> and climb up to open the shortcut","tags":["Rings","Weapons"]},
+{"text":"Walk back through the sewers and onto the bridge to get another <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a>. Walk upstairs towards the house on your right. Grab a <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\">Large Soul of a Deserted Corpse</a>. Walk around the right side of the house to get <a href=\"http://darksouls3.wiki.fextralife.com/Alluring+Skull\">Alluring Skull&nbsp;x3</a>","tags":["Misc. items"]},
+{"text":"Walk towards the tower. Talk to <a href=\"http://darksouls3.wiki.fextralife.com/Eygon+of+Carim\">Eygon of Carim</a> outside. If you have enough health, you can drop down into the valley to reach <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> in her cell, but don't bother. You can reach Irina by purchasing the Grave Key from the Shrine Maiden after giving the maiden the <a href=\"http://darksouls3.wiki.fextralife.com/Mortician's+Ashes\">Mortician's Ashes</a> which is futher down in this list"},
+{"text":"Walk into the tower to find <a href=\"http://darksouls3.wiki.fextralife.com/Siegward+of+Catarina\">Siegward of Catarina</a>. Get on the elevator which goes down to the basement. Kill the <a href=\"http://darksouls3.wiki.fextralife.com/Boreal+Outrider+Knight\">Boreal Outrider Knight</a> to get the <a href=\"http://darksouls3.wiki.fextralife.com/Irithyll+Straight+Sword\">Irithyll Straight Sword</a>, grab the <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a> and rest at the <a href=\"http://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\">Road of Sacrifices</a> bonfire","tags":["Misc. items"]},
+{"text":"The <a href=\"https://darksouls3.wiki.fextralife.com/Life+Ring\">Life Ring+1</a> is behind Siegward on the upcoming balcony","tags":["Rings","s_ng+"]},
+{"text":"To reach the top of the tower, hit the switch on the elevator while at the main entrance and then quickly get off to reveal a second lift."},
+{"text":"After getting off the lift at the top you can find a <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Nameless+Soldier\">Soul of a Nameless Soldier</a> in a corner.","tags":["Misc. items"]},
+{"text":"Go up the stairs and offer a token of friendship to the <a href=\"http://darksouls3.wiki.fextralife.com/Giant+of+the+Undead+Settlement\">Giant of the Undead Settlement</a> so that he does not attack you with giant arrows and even assists you when you are near a White Birch.","tags":["Misc. items","Missable"]},
+{"text":"Take the lift down, and while facing the entrance of the tower, when you hear Siegward's voice; roll off to land onto a wooden platform."},
+{"text":"Head outside and speak to Siegward again."},
+{"text":"Lure the the Fire Demon towards the tower which makes Siegward come and fight by your side."},
+{"text":"After killing the Fire Demon you gain a <a href=\"http://darksouls3.wiki.fextralife.com/Fire+Gem\">Fire Gem</a>."},
+{"text":"Speak to Siegward three times to receive a <a href=\"http://darksouls3.wiki.fextralife.com/Siegbrau\">Siegbräu</a>, the Toast gesture, and the Sleep gesture.","tags":["Misc. items","Gestures"]},
+{"text":"Around the town, you can grab a <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone</a> and a <a href=\"http://darksouls3.wiki.fextralife.com/Large+Club\">Large Club</a>. You can also get the <a href=\"http://darksouls3.wiki.fextralife.com/Northern+Armor+Set\">Northern Armor Set</a> from a nearby hanging corpse","tags":["Armor","Misc. items","Weapons"]},
+{"text":"A <a href=\"http://darksouls3.wiki.fextralife.com/Pale+Tongue\">Pale Tongue</a> can be found on a nearby hanging corpse. Obtaining the tongue here or from invading successfully leads to Leonhard returning to Firelink Shrine. He then gives you the <a href=\"http://darksouls3.wiki.fextralife.com/Lift+Chamber+Key\">Lift Chamber Key</a> that opens the door below the Tower on the Wall bonfire of High Wall of Lothric. Kill the Darkwraith imprisoned there to get a <a href=\"http://darksouls3.wiki.fextralife.com/Red+Eye+Orb\">Red Eye Orb</a>. Return to Firelink Shrine and talk to Leonhard to receive the Applause gesture","tags":["Gestures","Misc. items"]},
+{"text":"Walk into the house to get <a href=\"http://darksouls3.wiki.fextralife.com/Red+Bug+Pellet\">Red Bug Pellet&nbsp;x2</a>. Walk upstairs and grab <a href=\"http://darksouls3.wiki.fextralife.com/Alluring+Skull\">Alluring Skull&nbsp;x2</a>. Walk across a bridge and into a house. Pillage a chest to get <a href=\"http://darksouls3.wiki.fextralife.com/Human+Pine+Resin\">Human Pine Resin&nbsp;x4</a>. Walk onto the roof and to the left to get <a href=\"http://darksouls3.wiki.fextralife.com/Flynn's+Ring\">Flynn's Ring</a>","tags":["Misc. items","Rings"]},
+{"text":"The <a href=\"https://darksouls3.wiki.fextralife.com/Covetous+Silver+Serpent+Ring\">Covetous Silver Serpent Ring+2</a> is on one of the lower rooftops","tags":["Rings","s_ng++"]},
+{"text":"Drop down onto the ledge of a tower. Grab <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone&nbsp;x2</a>. Drop down from within the tower to get the <a href=\"http://darksouls3.wiki.fextralife.com/Mirrah+Set\">Mirrah Set</a> without the mask and the <a href=\"http://darksouls3.wiki.fextralife.com/Chloranthy+Ring\">Chloranthy Ring</a>","tags":["Armor","Misc. items","Rings"]},
+{"text":"Warp back to the Dilapidated Bridge bonfire, enter the graveyard pierced by giant arrows, and walk towards the house on the left. Grab <a href=\"http://darksouls3.wiki.fextralife.com/Blue+Wooden+Shield\">Blue Wooden Shield</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Cleric+Set\">Cleric Set</a> in front of the house and <a href=\"http://darksouls3.wiki.fextralife.com/Mortician's+Ashes\">Mortician's Ashes</a> by a tree to the left. If dodging the giant arrows is too troublesome, head to the tower to befriend the Giant","tags":["Armor"]},
+{"text":"The <a href=\"https://darksouls3.wiki.fextralife.com/Poisonbite+Ring\">Poisonbite Ring+1</a> is behind the well","tags":["Rings","s_ng+"]},
+{"text":"Grab all the items around the White Birch (one of them being the <a href=\"http://darksouls3.wiki.fextralife.com/Reinforced+Club\">Reinforced Club</a>) including the <a href=\"http://darksouls3.wiki.fextralife.com/Undead+Bone+Shard\">Undead Bone Shard</a> on the platform to the right of the White Birch"},
+{"text":"Enter the house and walk upstairs. Grab the <a href=\"http://darksouls3.wiki.fextralife.com/Great+Scythe\">Great Scythe</a>. Continue to walk towards the stone building and open the doors on your right","tags":["Weapons"]},
+{"text":"Return to Firelink Shrine. Give <a href=\"http://darksouls3.wiki.fextralife.com/Loretta's+bone\">Loretta's bone</a> to Greirat, who then allows you to keep the Blue Tearstone Ring. You can reload the area and talk to Greirat again to learn the Curl Up gesture. You can reload the area once more and send him to pillage Undead Settlement. He returns when you kill a boss","tags":["Gestures"]},
+{"text":"Give the Shrine Handmaid the <a href=\"http://darksouls3.wiki.fextralife.com/Mortician's+Ashes\">Mortician's Ashes</a> and then purchase the <a href=\"http://darksouls3.wiki.fextralife.com/Grave+Key\">Grave Key</a> which opens the locked door in the sewer area next to the Dilapidated Bridge bonfire"},
+{"text":"Go back the sewer area and open the locked door. Climb down and walk towards <a href=\"http://darksouls3.wiki.fextralife.com/Velka+the+Goddess+of+Sin\">Velka the Goddess of Sin's statue</a> to grab a <a href=\"http://darksouls3.wiki.fextralife.com/Loincloth\">Loincloth</a>","tags":["Armor"]},
+{"text":"Proceed through the tunnel to get the <a href=\"http://darksouls3.wiki.fextralife.com/Red+Hilted+Halberd\">Red Hilted Halberd</a>. Continue into another room to get a <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+an+Unknown+Traveler\">Soul of an Unknown Traveler</a>","tags":["Misc. items","Weapons"]},
+{"text":"Walk outside to kill a <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\">Crystal Lizard</a> which drops a <a href=\"http://darksouls3.wiki.fextralife.com/Heavy+Gem\">Heavy Gem</a>. Grab the <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a> and another <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>"},
+{"text":"Walk through the archway tunnel. Shoot down a hanging corpse to get a <a href=\"http://darksouls3.wiki.fextralife.com/Red+and+White+Shield\">Blessed Red and White Shield+1</a>","tags":["Weapons"]},
+{"text":"Walk into a new room and climb down to get a <a href=\"http://darksouls3.wiki.fextralife.com/Saint's+Talisman\">Saint's Talisman</a>","tags":["Weapons"]},
+{"text":"Climb up and talk to <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> to receive the Prayer gesture. Touch her and accept her services. She then moves to the Firelink Shrine. After recruiting Irina, make sure to go outside and speak to Eygon. At the shrine, you can give Irina the <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\">Londor Braille Divine Tome</a>, but doing so and buying any of its spells leads to her Dark ending. Otherwise, hang onto it until you find Karla later in the game","tags":["Gestures"]},
+{"text":"Kill the <a href=\"http://darksouls3.wiki.fextralife.com/Curse-rotted+Greatwood\">Curse-rotted Greatwood</a> to get <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+the+Rotted+Greatwood\">Soul of the Rotted Greatwood</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Transposing+Kiln\">Transposing Kiln</a>. Give the Transposing Kiln to <a href=\"http://darksouls3.wiki.fextralife.com/Ludleth+of+Courland\">Ludleth of Courland</a> so he can turn boss souls into weapons, rings, and spells","tags":["Bosses","Misc. items"]},
+{"text":"Talk to Hawkwood after killing the Greatwood to receive a <a href=\"http://darksouls3.wiki.fextralife.com/Heavy+Gem\">Heavy Gem</a>. If he does not give you anything, come back to him after killing another boss"}
+                    ]
                 },
                 {
-                    "title": "Road of Sacrifices"
+                    "title": "Road of Sacrifices",
+                    "steps":[
+                        {"text":"If you haven't done so before, you can send Greirat to pillage Undead Settlement. He returns when you kill a boss"},
+{"text":"Travel to the Road of Sacrifices bonfire. Head down the path and drop down to the left of the tree to find a <a href=\"http://darksouls3.wiki.fextralife.com/Shriving+Stone\">Shriving Stone</a>"},
+{"text":"A bit farther on you'll find a <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+an+Unknown+Traveler\">Soul of an Unknown Traveler</a> next to an overturned wagon","tags":["Misc. items"]},
+{"text":"The <a href=\"https://darksouls3.wiki.fextralife.com/Chloranthy+Ring\">Chloranthy Ring+2</a> is down on a ledge behind the first Corvian Storyteller","tags":["Rings","s_ng++"]},
+{"text":"At the fork in the path, head left and drop off the path when it ends. Head left again (instead of going under the bridge) and kill the <a href=\"http://darksouls3.wiki.fextralife.com/Madwoman\">Madwoman</a> NPC for the <a href=\"http://darksouls3.wiki.fextralife.com/Butcher+Knife\">Butcher Knife</a>","tags":["Weapons"]},
+{"text":"Grab the <a href=\"http://darksouls3.wiki.fextralife.com/Brigand+Axe\">Brigand Axe</a>, the <a href=\"http://darksouls3.wiki.fextralife.com/Brigand+Set\">Brigand Set</a>, and the <a href=\"http://darksouls3.wiki.fextralife.com/Brigand+Twindaggers\">Brigand Twindaggers</a> from this lower area","tags":["Armor","Weapons"]},
+{"text":"Turn around and head back up the path and under the bridge. Head up and across the bridge for a <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>","tags":["Titanite"]},
+{"text":"Cross back over the bridge and head to the next bridge. Before crossing it, drop off to the right to reach an area where you'll find the <a href=\"http://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Carim\">Braille Divine Tome of Carim</a> and <a href=\"http://darksouls3.wiki.fextralife.com/Morne's+Ring\">Morne's Ring</a>. Give the tome to <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\">Irina of Carim</a> at Firelink Shrine and buy all the spells it offers if you want her to become a Fire Keeper later in the game","tags":["Rings"]},
+{"text":"Before entering the archway that leads to the Halfway Fortress bonfire, you can find an <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a> on a ledge with a caster enemy","tags":["Misc. items"]},
+{"text":"Talk to <a href=\"http://darksouls3.wiki.fextralife.com/Anri+of+Astora\">Anri of Astora</a> at the Halfway Fortress bonfire. Talk to <a href=\"http://darksouls3.wiki.fextralife.com/Horace+the+Hushed\">Horace the Hushed</a> to get the <a href=\"http://darksouls3.wiki.fextralife.com/Blue+Sentinels\">Blue Sentinels</a> covenant. Make sure to deplete Anri's dialogue before continuing the game"},
+{"text":"After meeting Anri of Astora, return to Firelink Shrine to talk to <a href=\"http://darksouls3.wiki.fextralife.com/Sirris+of+the+Sunless+Realms\">Sirris of the Sunless Realms</a> to begin her quest line"},
+{"text":"Head into the Crucifixion Woods from the Halfway Fortress bonfire. Drop off the right side of the path as soon as it turns left, and drop again to grab a <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+an+Unknown+Traveler\">Soul of an Unknown Traveler</a>","tags":["Misc. items"]},
+{"text":"Drop off again and head straight while hugging the wall to your right. You'll arrive at a door. Head in and straight across to a balcony-type area where you'll find some stairs leading to the <a href=\"http://darksouls3.wiki.fextralife.com/Sellsword+Set\">Sellsword Set</a>","tags":["Armor"]},
+{"text":"Drop down to find the <a href=\"http://darksouls3.wiki.fextralife.com/Sellsword+Twinblades\">Sellsword Twinblades</a> directly underneath the corpse that had the Sellsword Set","tags":["Weapons"]},
+{"text":"A bit farther in the building you'll find the <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Coal\">Farron Coal</a>, which enables Heavy, Sharp, and Poison infusions"},
+{"text":"Head back outside through the same door you used to enter. Step into the water and follow the edge of the water to the left. Hug the cliffs and you'll find a <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>","tags":["Titanite"]},
+{"text":"Continue on with the cliff wall to your left. You'll head past the ramp that leads back up to the Halfway Fortress bonfire, but keep the cliff to your left after moving past it. You'll find another <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>","tags":["Titanite"]},
+{"text":"Continuing in this manner, you'll find a large group of <a href=\"http://darksouls3.wiki.fextralife.com/Poisonhorn+Bug\">Poisonhorn Bugs</a> guarding yet another <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\">Titanite Shard</a>","tags":["Titanite"]},
+{"text":"At this point, deviate from the cliff wall for a bit and head up the hill towards the water for the <a href=\"http://darksouls3.wiki.fextralife.com/Twin+Dragon+Greatshield\">Twin Dragon Greatshield</a>","tags":["Weapons"]},
+{"text":"Head towards the stone wall with the large broken arch (which you would have eventually reached had you stuck to the cliff wall). Grab the <a href=\"http://darksouls3.wiki.fextralife.com/Fading+Soul\">Fading Soul</a> from the corpse before heading through","tags":["Misc. items"]},
+{"text":"Turn right soon after heading through the arch to reach the Crucifixion Woods bonfire. Walk along the rocky wall towards the ruins until you reach a purple summon sign for mad phantom <a href=\"http://darksouls3.wiki.fextralife.com/Holy+Knight+Hodrick\">Holy Knight Hodrick</a>. When summoned, he instantly becomes hostile, so kill him for souls","tags":["Missable"]},
+{"text":"Head past where Hodrick's summon sign was until you reach a ledge. Fall down to grab the <a href=\"http://darksouls3.wiki.fextralife.com/Estus+Shard\">Estus Shard</a>","tags":["Estus Shards"]},
+{"text":"Continue around the building to a large bonfire with an <a href=\"http://darksouls3.wiki.fextralife.com/Ember\">Ember</a>","tags":["Misc. items"]},
+{"text":"Finish your circuit around the building for a <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+an+Unknown+Traveler\">Soul of an Unknown Traveler</a>","tags":["Misc. items"]},
+{"text":"Back at the Crucifixion Woods bonfire, drop off into the water and kill the <a href=\"http://darksouls3.wiki.fextralife.com/Great+Crab\">Great Crab</a> furthest away from you for the <a href=\"http://darksouls3.wiki.fextralife.com/Great+Swamp+Ring\">Great Swamp Ring</a>","tags":["Rings"]},
+{"text":"If you are embered, dark spirit <a href=\"http://darksouls3.wiki.fextralife.com/Yellowfinger+Heysel\">Yellowfinger Heysel</a> invades around where the two giant crabs are. Kill her for <a href=\"http://darksouls3.wiki.fextralife.com/Heysel+Pick\">Heysel Pick</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Xanthous+Crown\">Xanthous Crown</a>"},
+{"text":"You will find the following items in the water: <a href=\"http://darksouls3.wiki.fextralife.com/Green+Blossom\">Green Blossom&nbsp;x2</a>, <a href=\"http://darksouls3.wiki.fextralife.com/Green+Blossom\">Green Blossom&nbsp;x4</a>, the <a href=\"http://darksouls3.wiki.fextralife.com/Grass+Crest+Shield\">Grass Crest Shield</a>, the <a href=\"http://darksouls3.wiki.fextralife.com/Conjurator+Set\">Conjurator Set</a>, and the <a href=\"http://darksouls3.wiki.fextralife.com/Great+Swamp+Pyromancy+Tome\">Great Swamp Pyromancy Tome</a>. The tome and the set are in the deep part of the swamp near the entrance of <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Keep\">Farron Keep</a>","tags":["Armor","Misc. items"]},
+{"text":"In the water near where you jump down from the Crucifixion Woods bonfire (near where the two Green Blossoms were), there are steps leading out of the water and a door to the left of them. Head through the door to find a small area with the <a href=\"http://darksouls3.wiki.fextralife.com/Sage+Ring\">Sage Ring</a> and the <a href=\"http://darksouls3.wiki.fextralife.com/Sorcerer+Set\">Sorcerer Set</a>","tags":["Armor","Rings"]},
+{"text":"The <a href=\"https://darksouls3.wiki.fextralife.com/Lingering+Dragoncrest+Ring\">Lingering Dragoncrest Ring+1</a> is next to a tree","tags":["Rings","s_ng+"]},
+{"text":"Head back out of this small area and take the steps to your left. Enter the building and proceed to the next room ahead to find a hallway with a <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\">Crystal Lizard</a>, which will drop a <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Gem\">Crystal Gem</a> when killed"},
+{"text":"Go back to the previous room and head up the steps all the way to a balcony. Drop off the broken end to reach a ledge with a <a href=\"http://darksouls3.wiki.fextralife.com/Ring+of+Sacrifice\">Ring of Sacrifice</a>","tags":["Rings"]},
+{"text":"Drop down, head back up the steps to the same room you were just in, and head up the stairs in the room, but only until you reach the broken wall. Head through down the path to grab the <a href=\"http://darksouls3.wiki.fextralife.com/Golden+Falcon+Shield\">Golden Falcon Shield</a>","tags":["Weapons"]},
+{"text":"Drop down from here and kill the two NPCs for the <a href=\"http://darksouls3.wiki.fextralife.com/Great+Club\">Great Club</a> and the <a href=\"http://darksouls3.wiki.fextralife.com/Exile+Greatsword\">Exile Greatsword</a>","tags":["Weapons"]},
+{"text":"Near the water's edge is a corpse with the <a href=\"http://darksouls3.wiki.fextralife.com/Fallen+Knight+Set\">Fallen Knight Set</a>. There is also a <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+an+Unknown+Traveler\">Large Soul of an Unknown Traveler</a> by the wall","tags":["Armor","Misc. items"]},
+{"text":"Head into the building the NPCs were guarding. There is <a href=\"http://darksouls3.wiki.fextralife.com/Homeward+Bone\">Homeward Bone&nbsp;x2</a> on a balcony in here. Double back and head down the ladder to light the Farron Keep bonfire","tags":["Misc. items"]},
+{"text":"Warp or run back to the Crucifixion Woods bonfire. Head into the ruins this time (the ones you previously traveled around before to grab the Estus Shard). The entrance is a hole in the wall in a small depression in the ground. In the first room you'll find the <a href=\"http://darksouls3.wiki.fextralife.com/Heretic's+Staff\">Heretic's Staff</a> in an alcove to the right","tags":["Weapons"]},
+{"text":"Continue on until you reach a 4-way crossroads and then go through the door on your left that looks like it leads to a wall. Turn right at the wall and you'll eventually arrive at <a href=\"http://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a>. Talk to him and he agrees to teach you in sorceries only if you have at least 10 Intelligence and promise to bring him scrolls. He then moves to Firelink Shrine. If you do not bring him any scrolls before defeating 4 bosses, he will leave"},
+{"text":"<a href=\"http://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim\">Orbeck of Vinheim</a> grants you different rewards based on certain criteria. If you are not a sorcerer, the <a href=\"http://darksouls3.wiki.fextralife.com/Young+Dragon+Ring\">Young Dragon Ring</a> is given to you after buying three of his spells and giving him at least one scroll. You will be rewarded with the Silent Ally gesture and the <a href=\"http://darksouls3.wiki.fextralife.com/Slumbering+Dragoncrest+Ring\">Slumbering Dragoncrest Ring</a> after buying Aural Decoy, Farron Flashsword, Pestilent Mist, and Spook.","tags":["Gestures"]},
+{"text":"There are broken steps that lead down from Orbeck's study with <a href=\"http://darksouls3.wiki.fextralife.com/Blue+Bug+Pellet\">Blue Bug Pellet&nbsp;x2</a>. Drop off to reach the final room before the boss","tags":["Misc. items"]},
+{"text":"In this room, near one of the stone pillars, <a href=\"http://darksouls3.wiki.fextralife.com/Eygon+of+Carim\">Eygon of Carim</a> has casted down a summon sign. You can summon him if you have recruited Irina to your Shrine and have not harmed her","tags":["Bosses","Missable"]},
+{"text":"Defeat the <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Sage\">Crystal Sage</a>; receive <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Crystal+Sage\">Soul of a Crystal Sage</a>","tags":["Bosses","Misc. items"]},
+{"text":"Head down the winding paths past the Crystal Sage bonfire to find two Crystal Lizards, who will each drop a <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\">Twinkling Titanite</a>","tags":["Titanite"]},
+{"text":"Continue following these twisting paths until you can drop down next to a large fire and the <a href=\"http://darksouls3.wiki.fextralife.com/Herald+Set\">Herald Set</a>. Continue on to the Cathedral of the Deep bonfire","tags":["Armor"]}
+                    ]
                 },
                 {
-                    "title": "Cathedral of the Deep"
+                    "title": "Cathedral of the Deep",
+                    "steps":[]
                 },
                 {
-                    "title": "Farron Keep"
+                    "title": "Farron Keep",
+                    "steps":[]
                 },
                 {
-                    "title": "Catacombs of Carthus"
+                    "title": "Catacombs of Carthus",
+                    "steps":[]
                 },
                 {
-                    "title": "Smouldering Lake"
+                    "title": "Smouldering Lake",
+                    "steps":[]
                 },
                 {
-                    "title": "Irithyll of the Boreal Valley"
+                    "title": "Irithyll of the Boreal Valley",
+                    "steps":[]
                 },
                 {
-                    "title": "Anor Londo"
+                    "title": "Anor Londo",
+                    "steps":[]
                 },
                 {
-                    "title": "Irithyll Dungeon"
+                    "title": "Irithyll Dungeon",
+                    "steps":[]
                 },
                 {
-                    "title": "Profaned Capital"
+                    "title": "Profaned Capital",
+                    "steps":[]
                 },
                 {
-                    "title": "Consumed King's Garden"
+                    "title": "Consumed King's Garden",
+                    "steps":[]
                 },
                 {
-                    "title": "Untended Graves"
+                    "title": "Untended Graves",
+                    "steps":[]
                 },
                 {
-                    "title": "Archdragon Peak"
+                    "title": "Archdragon Peak",
+                    "steps":[]
                 },
                 {
-                    "title": "Lothric Castle"
+                    "title": "Lothric Castle",
+                    "steps":[]
                 },
                 {
-                    "title": "Grand Archives"
+                    "title": "Grand Archives",
+                    "steps":[]
                 },
                 {
-                    "title": "Kiln of the First Flame"
+                    "title": "Kiln of the First Flame",
+                    "steps":[]
                 },
                 {
-                    "title": "Painted World of Ariandel"
+                    "title": "Painted World of Ariandel",
+                    "steps":[]
                 },
                 {
-                    "title": "The Dreg Heap"
+                    "title": "The Dreg Heap",
+                    "steps":[]
                 },
                 {
-                    "title": "The Ringed City"
+                    "title": "The Ringed City",
+                    "steps":[]
                 }
             ]
         },

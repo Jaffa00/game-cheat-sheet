@@ -309,25 +309,25 @@ var profilesKey = 'darksouls3_profiles';
             profiles[profilesKey][profile_name].journey = 1;
         if (!('hidden_categories' in profiles[profilesKey][profile_name]))
             profiles[profilesKey][profile_name].hidden_categories = {
-                f_boss: false,
-                f_miss: false,
-                f_npc: false,
-                f_estus: false,
-                f_bone: false,
-                f_tome: false,
-                f_coal: false,
-                f_ash: false,
-                f_gest: false,
-                f_sorc: false,
-                f_pyro: false,
-                f_mirac: false,
-                f_ring: false,
-                f_weap: false,
-                f_arm: false,
-                f_tit: false,
-                f_gem: false,
-                f_cov: false,
-                f_misc: false
+Bosses: false,
+Missable: false,
+NPCs: false,
+EstusShards: false,
+UndeadBoneShards: false,
+ScrollsTomes: false,
+Coals: false,
+Ashes: false,
+Gestures: false,
+Sorceries: false,
+Pyromancies: false,
+Miracles: false,
+Rings: false,
+Weapons: false,
+Armor: false,
+Titanite: false,
+Gems: false,
+Covenants: false,
+Miscitems: false
             };
     }
 
