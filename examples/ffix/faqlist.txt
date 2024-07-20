@@ -1,44 +1,147 @@
- o Attempt to leave the room and choose "Where's Garnet?" when prompted.
- o Leave the room, run down the stairs, and talk to the guard on the right.
- o Go to the royal chamber (you have to talk to either of the 2 guards every time you want to enter the royal chamber, even if you are invited).
- o There will be a lot of dialogue once you enter; return to the guest room once it's over.
- o Head to the aircab dock after the meeting with Doctor Tot and fly to the Theater District.
- o Go the Tantalus hideout and get the Unusual Potion from Cinna; return to open the chests inside for some Gil.
- o Next visit Artist Michael's studio, ask about the potions, then search the studio for the Strange Potion and open the chest for a Lapis Lazuli.
- o Return to the aircab terminal and board an aircab for the Business District.
- o You can skip delivering Mogki's letter to Moodon at the inn, and do it after the challenge is over. So head straight to the market square.
- o Proceed down the alley and ask Alice about the potions to receive her Beautiful Potion.
- o Enter the synthesis shop to prepare not only another Cotton Robe trick, but also the less-known 'Desert Boots trick' :)
-     BUY : 99 Cotton Robe      99,000
-         : 99 Desert Boots     29,700
- o Ride back to Lindblum Castle and return to the royal chamber.
- o Following the upcoming meeting, take the lift to the base level and ride to the Serpent's Gate; open the chest and board the Blue Narciss.
- o Form a party with Vivi, Garnet and Quina, then sail west to the island with Chocobo tracks, west of the island with Chocobo's Lagoon.
- o Disembark, use Gysahl Greens to call Choco, and save your game.
-  [TARGET TIME: 07:40:46]
- o Reset, enter Chocobo's Lagoon, dig up a Chocograph, and save on the beach outside. Be sure to save over a different file and check which Chocograph you received after you've already saved; you need either "Dawn Lagoon" or "Dusk Plains".
- o Play another game of Hot&Cold for the other Chocograph. Back outside, open the Chocograph menu to check whether you got the right one, and take the opportunity to equip "Dawn Lagoon".
- PATH C & COMBINED
-  | * If you didn't get the second Chocograph Piece on Disc 1, then you'll  |
-  |   need to dig it up now with one of the Chocographs!                    |
-  | * The chances of digging up a Chocograph Piece AND the right Chocograph |
-  |   in a single 30-second game are quite low, but they are highest in the |
-  |   first game since you have two Chocographs which fit the requirements. |
-  | * If you can't get a good Chocograph and the Chocograph Piece during    |
-  |   the first game, then you can try to play 2 consecutive games instead. |
-  | * Playing a second game immediately after another one adds about 0:30.  |
-  |                                                         _________       |
-  '--------------------------------------------------------/ + 0:30 /-------'
-                                                           ¯¯¯¯¯¯¯¯¯
- o Don't bother saving after your last game; instead, head straight back to the
-   Blue Narciss and sail to Chocobo's Forest. Use the tracks there to call
-   Choco, then head east and into the water from the last beach - the "Dawn
-   Lagoon" treasure is to the right of the island nearby.
- o Having gotten the Mountain Transformation, return to the beach and climb up
-   the mountain to end up right next to Treno; enter the city.
- o Equip Quina with the Needle Fork, Bone Wrist, and Running Shoes; activate
-   his/her Auto-Haste and Add Status abilities.
- o Save with Mogrich.
+PATH A, B & Lv 1
+  | * If you have the time to spare (especially if you skipped the Promist Ring detour), then you can make the following area much easier.       |
+  | * Enter Esto Gaza and proceed as normal, but return to the world map after the scenes are over.                                            |
+  | * Equip Amarant with the Kaiser Knuckles, Green Beret, Bone Wrist, Power Vest, and Rebirth Ring; activate Auto-Life and Bird Killer.           |
+  | * Remove the others' armor so that they can knock themselves out.       |
+  | * Save near the beach, then encounter a Whale Zombie.                   |
+  | * Hopefully it will open with Fin. Knock out everyone except Amarant, and hope for Zombie Powder. Attack once to finish the battle.         |
+  | * Replace Amarant's Rebirth Ring with the Black Belt. Once you find the Red Hat in Mount Gulug, equip that as well and activate MP Attack.    |
+  | * Revive Freya without healing her, and activate her Cover ability. You can equip the Linen Cuirass if necessary.                             |
+  | * Ignore the upcoming equipment changes before the Red Dragon battles.  |
+  | * With this set-up, you can easily get past the upcoming Red Dragon battles. Amarant can take them out in one hit each, so hope he gets a turn at the start of the battle and have him attack immediately.      |
+  | * The remaining Red Dragon then has a 1 in 3 chance of using Dive. This will always hit and knock out Freya thanks to the Cover ability, and Amarant can attack again for the win.                                 |
+  | * You can make up the missed AP gains by finding the Friendly Feather Circle near the Chocobo tracks and giving it a Moonstone.             |
+ o Enter Esto Gaza and watch the scenes.
+ o Before going on to Mount Gulug, head right to find the equipment shop and make the following purchases:
+     BUY : 2 Flame Saber       10,380    
+         : 2 Heavy Lance        9,400       
+         : 2 Scissor Fangs     16,000      
+         : 1 Silver Fork        7,400      
+         : 1 Jade Armlet        3,400
+         : 5 Black Hood        12,750
+         : 7 Judo Uniform      35,000
+         : 3 Gold Armor         8,850
+There are other missable items up for sale here, but you can buy them later once you have more Gil at your disposal.
+ o Equip your party as indicated below, then return to the lobby and go through
+   the doorway in the back.
+ZIDANE: Exploda, Black Hood, Thief Gloves, Chain Plate, Lapis Lazuli: Distract,Master Thief,Ability Up,Bandit
+VIVI: Oak Staff, -, Magic Armlet, Silk Robe, Running Shoes: Auto-Haste,,
+FREYA: Heavy Lance, Cross Helm, Thunder Gloves, Shield Armor, Lapis Lazuli: Accuracy+,Distract,Add Status, Ability Up
+AMARANT: Scissor Fangs, -, Jade Armlet, Brigandine, Power Belt: Add Status,Ability Up,
+ o Read the letter Mogrika received, accept her letter to Moolan and save your game.
+ o Go down the stairs to the right and through the door to enter Mount Gulug.
+ o Enter the building on the left, pick up the Gil and Ether, then exit through the hole on the upper level.
+ o Climb down the ladder, pick up the Red Hat, equip it on Amarant, and then return to the entrance of the area.
+ o Go into the house on the right and go through it to reach a hanging rope; go past it and jump onto the walkway to the right.
+ o Continue along the path to find a chest with a Golden Hairpin. Equip it on Vivi, then return to the rope and slide down; pull the lever down 3 times once you disembark.
+ o Take the right walkway to reach another building; pick up the Wing Edge in the corner.
+ o Deliver Mogrika's letter, accept the letter to Mogtaka and save your game.
+  [TARGET TIME: 08:57:34]
+ o Exit the house through the right hole and make your way to the Gaia Gear at the end of the path. Having picked it up, backtrack to get ambushed by...
+BATTLE: RED DRAGON x 2
+  | • This is the most annoying of the forced Red Dragon battles, so come armed with patience.                                                  |
+  | • Cast Stop and attack with Freya and Amarant to Stop, Petrify or Venom them in any combination.                                              |
+  | • Don't attack the same Red Dragon twice until you know whether the first attack connected - open a menu the moment someone's attack animation begins and wait for the result. This also keeps the enemies' ATB gauges from filling while you wait.                               |
+  | • Keep Zidane on stand-by to throw Phoenix Down in case Dive connects, and make sure everyone except Vivi survives the battle to gain AP.    |
+  |   Z   | Accuracy+     12/30 | Master Thief  28/50 | Devil Killer  * * * | Ability Up    64/95 | Sacrifice     37/55 | Lucky Seven   37/85 |
+  |   F   | Accuracy+      6/30 | Distract       6/25 | Devil Killer  12/30 |
+  |   A   | MP Attack     36/60 |                     |                     |
+ o Dash back to Moolan and SAVE YOUR GAME!
+  [TARGET TIME: 08:59:17]
+
+ o Reload and slide down the rope to the bottom of the pit, then move toward
+   the bottom of the screen to trigger the next battle.
+
+     .========================.                                      ____
+  .--| BATTLE: RED DRAGON x 2 |-------------------------------------(3 AP)--.
+  |  '========================'                                      ¯¯¯¯   |
+  |                                                                         |
+  | • Use exactly the same strategy as before. At least this time you don't |
+  |   have to worry about random battles on the way, and the attempts are   |
+  |   shorter. The next and last Red Dragon battle is easy, so this is it!  |
+  | • Again, make sure everyone besides Vivi survives.                      |
+  |                                                                         |
+   >-----------------------------------------------------------------------<
+  |   Z   | Accuracy+     24/30 | Master Thief  34/50 | Ability Up    70/95 |
+  |       | Sacrifice     43/55 | Lucky Seven   43/85 |                     |
+  |   F   | Accuracy+     12/30 | Distract      12/25 | Devil Killer  24/30 |
+  |   A   | MP Attack     48/60 |                     |                     |
+  '-------------------------------------------------------------------------'
+
+ o Climb back up the rope after the battle, and continue along the path to the
+   left of the well.
+ o Enter the building on the left; pick up the Demon's Mail and then enter the
+   other door outside.
+ o Say hi to Mogtaka, deliver the letter from Moolan, and save your game again.
+
+  [TARGET TIME: 09:00:58]
+
+ o Take the stairs, enter the building and head toward the chest to trigger the
+   last and easiest of these Red Dragon battles.
+
+     .====================.                                          ____
+  .--| BATTLE: RED DRAGON |-----------------------------------------(3 AP)--.
+  |  '===================='                                          ¯¯¯¯   |
+  |                                                                         |
+  | • There's only a single Red Dragon this time, and it couldn't really be |
+  |   any closer to the save point, so it shouldn't take all that long to   |
+  |   get past this last battle.                                            |
+  |                                                                         |
+   >-----------------------------------------------------------------------<
+  |   Z   | Accuracy+     * * * | Master Thief  40/50 | Ability Up    76/95 |
+  |       | Sacrifice     49/55 | Lucky Seven   49/85 |                     |
+  |   F   | Accuracy+     18/30 | Distract      18/25 | Devil Killer  * * * |
+  |   A   | MP Attack     * * * |                     |                     |
+  '-------------------------------------------------------------------------'
+
+ o Open the chest in the back for an Elixir, then return to Mogtaka.
+ o Make sure that Freya and Amarant are both in the front row, then remove all
+   of Vivi's gear and make the following changes to the others' equipment:
+
+   .=================.=================.=================.=================.
+   |     ZIDANE      |      VIVI       |      FREYA      |     AMARANT     |
+   .=================.=================.=================.=================.
+   | Exploda         | Flame Staff     | Holy Lance      | Kaiser Knuckles |
+   | Red Hat         | -               | Mythril Helm    | Green Beret     |
+   | Thief Gloves    | -               | Diamond Gloves  | Jade Armlet     |
+   | Brigandine      | -               | Shield Armor    | Chain Plate     |
+   | Reflect Ring    | -               | Power Belt      | Black Belt      |
+    >----------------+-----------------+-----------------+----------------<
+   | MP Attack       | -               | MP Attack       | MP Attack       |
+   | Devil Killer    |                 | Devil Killer    | Devil Killer    |
+   | Ability Up      |                 | Ability Up      | Ability Up      |
+   | Antibody        |                 | Antibody        |                 |
+   '-----------------'-----------------'-----------------'-----------------'
+
+ o If you have extra Magic Stones, activate Distract as well.
+ o Return to Mogtaka and save your game.
+
+  [TARGET TIME: 09:02:36]
+
+ o Go back to the rope, slide down and go through the gap in the wall.
+
+     .=====================.                                        _____
+  .--| BATTLE: MELTIGEMINI |---------------------------------------(11 AP)--.
+  |  '====================='                                        ¯¯¯¯¯   |
+  |                                                                         |
+  | • Two hits from Freya and one or two hits from Amarant will be enough   |
+  |   to end the battle.                                                    |
+  | • Keep Eiko on stand-by to distribute Phoenix Down.                     |
+  | • Zidane can either do the same, or you can have him Steal some gear    |
+  |   for selling later. Enter an attack command at the end of the second   |
+  |   round in case Freya and Amarant don't finish the job.                 |
+  | • Everyone except Eiko needs to survive the battle to get AP.           |
+  |                                                                         |
+   >-----------------------------------------------------------------------<
+  |   Z   | Auto-Reflect  75/95 | MP Attack     40/45 | Master Thief  * * * |
+  |       | Ability Up    * * * | Sacrifice     * * * | Lucky Seven   71/85 |
+  |   F   | Distract      * * * | Insomniac     * * * |                     |
+  |   A   | Devil Killer  * * * |                     |                     |
+  '-------------------------------------------------------------------------'
+
+ o A few scenes will commence after the battle and you will wake up to find
+   yourself in the Lindblum Castle guest room once again.
+ o Pick up the letter to Kumool and save your game.
 
    _________________________________________________________________________
-  | TARGET TIME : 07:47:47 (+25:15) | TARGET GIL :  63,640 | ENCOUNTERS : 0 |
+  | TARGET TIME : 09:12:20 (+19:52) | TARGET GIL :  47,224 | ENCOUNTERS : 0 |
